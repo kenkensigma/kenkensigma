@@ -132,15 +132,17 @@
 
 ---
 
-## 🎯 Pinned Repositories
+## 🎯 Featured Repositories
 
 <div align="center">
-  <a href="https://github.com/kenkensigma/Zeta-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kenkensigma&repo=Zeta-AI&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/kenkensigma/ProjectDHS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kenkensigma&repo=ProjectDHS&theme=tokyonight&hide_border=true" />
-  </a>
+
+### 🤖 AI & Machine Learning
+[![Zeta-AI](https://img.shields.io/badge/Zeta--AI-Python-blue?style=for-the-badge&logo=python)](https://github.com/kenkensigma/Zeta-AI)
+
+### 🌐 Web Development
+[![ProjectDHS](https://img.shields.io/badge/ProjectDHS-Laravel-red?style=for-the-badge&logo=laravel)](https://github.com/kenkensigma/ProjectDHS)
+[![Portfolio](https://img.shields.io/badge/Portfolio-HTML%2FCSS-orange?style=for-the-badge&logo=html5)](https://github.com/kenkensigma/portofolio)
+
 </div>
 
 ---
@@ -169,6 +171,40 @@
 
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+</div>
+
+---
+
+## 🎵 Currently Vibing To
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<a href="https://open.spotify.com/track/TRACK_ID_1">
+<img src="https://i.scdn.co/image/ab67616d00001e02de9614ca7864f6f41a40439f" width="200px"/><br/>
+<b>スパークル</b><br/>
+Lilas
+</a>
+</td>
+<td align="center" width="33%">
+<a href="https://open.spotify.com/track/TRACK_ID_2">
+<img src="https://i.scdn.co/image/ab67616d00001e0200702474f8e0e2b6155d48e3" width="200px"/><br/>
+<b>About You</b><br/>
+The 1975
+</a>
+</td>
+<td align="center" width="33%">
+<a href="https://open.spotify.com/track/TRACK_ID_3">
+<img src="https://i.scdn.co/image/ab67616d00001e028e5f97a65d6b8baa73c4d58a" width="200px"/><br/>
+<b>Made In Japan</b><br/>
+Buck Owen
+</a>
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
