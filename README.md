@@ -109,7 +109,9 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kenkensigma/kenkensigma/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  
+![Snake animation](https://github.com/kenkensigma/kenkensigma/blob/output/github-contribution-grid-snake.svg)
+
 </div>
 
 
