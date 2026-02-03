@@ -95,11 +95,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kenkensigma&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenkensigma&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" height="180em" />
-</div>
-
-<div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=kenkensigma&theme=tokyonight&hide_border=true" width="49%" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kenkensigma&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </div>
@@ -112,15 +107,6 @@
   
 ![snake gif](https://github.com/kenkensigma/kenkensigma/blob/output/github-snake-dark.svg)
 
-</div>
-
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kenkensigma&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
 </div>
 
 ---
@@ -149,11 +135,11 @@
 ## 🎯 Pinned Repositories
 
 <div align="center">
-  <a href="https://github.com/kenkensigma/TUGAS-DOM">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kenkensigma&repo=TUGAS-DOM&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/kenkensigma/Zeta-AI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kenkensigma&repo=Zeta-AI&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/kenkensigma/portofolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kenkensigma&repo=portofolio&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/kenkensigma/ProjectDHS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kenkensigma&repo=ProjectDHS&theme=tokyonight&hide_border=true" />
   </a>
 </div>
 
@@ -179,31 +165,10 @@
 
 ---
 
-## 🎮 Coding Stats
-
-<div align="center">
-  
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-</div>
-
----
-
 ## 💡 Random Dev Meme
 
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
-</div>
-
----
-
-## 🎵 Spotify Playing
-
-<div align="center">
-  
-[![Spotify](https://novatorem-kenkensigma.vercel.app/api/spotify)](https://open.spotify.com/user/YOURSPOTIFYID)
-
 </div>
 
 ---
