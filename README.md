@@ -112,7 +112,6 @@
   <img src="https://raw.githubusercontent.com/kenkensigma/kenkensigma/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
-> **Note:** Untuk snake animation, kamu perlu setup GitHub Action. Lihat tutorial di bawah! 👇
 
 ---
 
