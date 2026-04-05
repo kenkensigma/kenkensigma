@@ -178,21 +178,21 @@
 <table>
 <tr>
 <td align="center" width="33%">
-<a href="https://open.spotify.com/track/TRACK_ID_1">
+<a href="https://open.spotify.com/track/3MR8qQiK1Bydhw9WjAzwzU?si=f495cdfa56b4438c">
 <img src="https://i.scdn.co/image/ab67616d00001e02de9614ca7864f6f41a40439f" width="200px"/><br/>
 <b>スパークル</b><br/>
 Lilas
 </a>
 </td>
 <td align="center" width="33%">
-<a href="https://open.spotify.com/track/TRACK_ID_2">
-<img src="https://i.scdn.co/image/ab67616d00001e0200702474f8e0e2b6155d48e3" width="200px"/><br/>
+<a href="https://open.spotify.com/track/59Y1f3y8FuLjadWY9Bx2LC?si=603ddf999cd64ddd">
+<img src="https://i.scdn.co/image/ab67616d0000485174c732f8aa0e0ccbb3d17d96" width="200px"/><br/>
 <b>About You</b><br/>
 The 1975
 </a>
 </td>
 <td align="center" width="33%">
-<a href="https://open.spotify.com/track/TRACK_ID_3">
+<a href="https://open.spotify.com/track/5vHs45P0mSuzl9rDRcliLK?si=cf3f6700aa814c0d">
 <img src="https://i.scdn.co/image/ab67616d00001e028e5f97a65d6b8baa73c4d58a" width="200px"/><br/>
 <b>Made In Japan</b><br/>
 Buck Owen
